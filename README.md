@@ -2,5 +2,7 @@ cloaked-robot
 =============
 
 A Cloaked Robot
-\n Extended Version
-\n Testing Next Update
+Extended Version
+Testing Next Update
+Following Up with Another Update
+The New Update is Awesome
